@@ -1,0 +1,8 @@
+tässä public repo: https://github.com/ibarro/linuxteht.git
+
+Eniten pidän pythonista, sillä se on tutuin ja simppeleimmän näköinen ulkonäöllisesti.
+Tulevaisuudesta en tiedä, aion kesän aikana tutustua enemmän C-kieliin.
+Bash sopii hyvin tietoverkko-hommiin ja muihin, missä ollaan vahvasti kytköksissä Linuxiin.
+Pythonia käytetään mm. web-ohjelmoinnissa ja data-analyytikassa.
+C:tä käytetään mm. käyttöjärjestelmien kirjoittamisessa.
+Makefile on tiedosto joka kääntää ohjelman lähdekoodin.
